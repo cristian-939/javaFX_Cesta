@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>2016-12-15</birthday>
+        <city>54</city>
+        <firstName>Lacteo</firstName>
+        <grasas>12</grasas>
+        <lastName>Yogurth</lastName>
+        <postalCode>65</postalCode>
+        <street>21</street>
+    </person>
+    <person>
+        <birthday>2016-12-26</birthday>
+        <city>21</city>
+        <firstName>Lacteo</firstName>
+        <grasas>10</grasas>
+        <lastName>Leche</lastName>
+        <postalCode>5</postalCode>
+        <street>2</street>
+    </person>
+    <person>
+        <birthday>2017-01-16</birthday>
+        <city>98</city>
+        <firstName>Carne</firstName>
+        <grasas>65</grasas>
+        <lastName>Cinta de lomo</lastName>
+        <postalCode>21</postalCode>
+        <street>32</street>
+    </person>
+    <person>
+        <birthday>2017-02-25</birthday>
+        <city>65</city>
+        <firstName>Pescado</firstName>
+        <grasas>12</grasas>
+        <lastName>Trucha</lastName>
+        <postalCode>21</postalCode>
+        <street>34</street>
+    </person>
+    <person>
+        <birthday>2017-01-13</birthday>
+        <city>87</city>
+        <firstName>Carne</firstName>
+        <grasas>21</grasas>
+        <lastName>Rabo de toro</lastName>
+        <postalCode>12</postalCode>
+        <street>32</street>
+    </person>
+    <person>
+        <birthday>2018-11-25</birthday>
+        <city>25</city>
+        <firstName>Cereales</firstName>
+        <grasas>11</grasas>
+        <lastName>Special k</lastName>
+        <postalCode>35</postalCode>
+        <street>14</street>
+    </person>
+    <person>
+        <birthday>2019-05-03</birthday>
+        <city>54</city>
+        <firstName>Frutos secos</firstName>
+        <grasas>32</grasas>
+        <lastName>Nueces</lastName>
+        <postalCode>12</postalCode>
+        <street>32</street>
+    </person>
+</persons>
